@@ -1,4 +1,4 @@
-const HimachaLogin = require('./shori.js');
+const HimachaLogin = require('./syori.js');
 
 const client = new HimachaLogin('ログインID', 'ログインパスワード');
 
